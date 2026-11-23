@@ -1,20 +1,27 @@
-coffeeshop_3569/
+blend/
+├── assets/
+│   ├── css/
+│   │   └── style.css
+│   ├── img/
+│   │   └── default-coffee.svg
+│   └── js/
+│       └── main.js
 ├── config/
 │   └── koneksi.php
+├── database/
+│   └── blend_3487.sql
 ├── includes/
 │   ├── auth_check.php
 │   ├── functions.php
 │   ├── header.php
 │   └── footer.php
-├── assets/
-│   ├── css/
-│   │   └── style.css
-│   └── js/
-│       └── main.js
 ├── uploads/
 │   └── menu/
-├── database/
-│   └── coffeeshop_3569.sql
+│       ├── .gitkeep
+│       ├── biru.jpeg
+│       ├── kuning.jpeg
+│       ├── hijau.jpeg
+│       └── merah.jpeg
 ├── login.php
 ├── logout.php
 ├── index.php
@@ -25,4 +32,7 @@ coffeeshop_3569/
 ├── transaksi.php
 ├── transaksi_tambah.php
 ├── transaksi_edit.php
-└── transaksi_hapus.php
+├── transaksi_hapus.php
+├── PRD.md
+├── README.md
+└── struktur.md
